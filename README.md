@@ -24,3 +24,5 @@ This will start the hand recognition server and start webcam.
 - Goto chrome menu > more tools > extentions.
 - Enable developer mode in top right.
 - Click "Load Unpacked" and select the "youtube-playback-control" folder
+
+![Instructions](https://github.com/harsh132/hand-gesture-recognition/raw/main/instructions.gif)
